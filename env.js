@@ -1,3 +1,3 @@
 export default {
-    baseUrl: 'https://web.thaifexportervirtualtradeshow.com/'
+    baseUrl: 'https://tramsvirtualfest.com/'
 }
